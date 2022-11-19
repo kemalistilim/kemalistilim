@@ -182,6 +182,23 @@ h5{
     opacity:0.8;
 }
 
+.Devambtn:link{
+    display:block;
+    width:45px;
+    height:150px;
+    padding:10px 20px;
+    background-color: #0071ce;
+    color:white;
+    text-decoration: none;
+    margin:15px;
+    border-radius: 10px;
+
+}
+
+.Devambtn:hover{
+    opacity:0.8;
+}
+
 footer{
     width: 100%;
     height: 75px;
